@@ -1,1 +1,3 @@
 # python-for-data-analysis
+
+Contains code I wrote while reading [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1?crid=OMRRSZYIXH8J&dib=eyJ2IjoiMSJ9.mPK50KsuhdOu3siz0pjKPGsD3KZHDXI4O_J0fLVNXMfZS54UH6i6pAALJ_rR9paL4TP-VpaosQWBNO3XjLHsWPlHSmx5cfPH7LTV6q0fZyngqiTPafPyeSDZ2AYVLXmb7EiAQdXs7j6haJVhpNarHzSYw4sGk-gSB1eAWPZl_eyu-Qt0DvDv9Zlpcs1O-QbUOXUCwkiOU6yqAtgp9E_PuXuLxAtM32B3i9InC0xppAY.ItfeZCaOIRWpDeYTzPXOlD0NcO-DDo7p7TUmtTB89Os&dib_tag=se&keywords=python+for+data+analysis&qid=1723999886&sprefix=python+for+data+analysis%2Caps%2C85&sr=8-1) 
